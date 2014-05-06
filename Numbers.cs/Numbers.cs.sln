@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers.cs", "Numbers.cs\Numbers.cs.csproj", "{A79E39AA-E9BF-4F55-BDE5-D6370E6DA35A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers2.cs", "Numbers2.cs\Numbers2.cs.csproj", "{D29E45FD-1FA0-4D29-9546-8DC652FF1231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToFeet.cs", "InchesToFeet.cs\InchesToFeet.cs.csproj", "{07A2B215-D71F-4578-B4F5-AEE9FE51CCDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79E39AA-E9BF-4F55-BDE5-D6370E6DA35A}.Debug|x86.ActiveCfg = Debug|x86
+		{A79E39AA-E9BF-4F55-BDE5-D6370E6DA35A}.Debug|x86.Build.0 = Debug|x86
+		{A79E39AA-E9BF-4F55-BDE5-D6370E6DA35A}.Release|x86.ActiveCfg = Release|x86
+		{A79E39AA-E9BF-4F55-BDE5-D6370E6DA35A}.Release|x86.Build.0 = Release|x86
+		{D29E45FD-1FA0-4D29-9546-8DC652FF1231}.Debug|x86.ActiveCfg = Debug|x86
+		{D29E45FD-1FA0-4D29-9546-8DC652FF1231}.Debug|x86.Build.0 = Debug|x86
+		{D29E45FD-1FA0-4D29-9546-8DC652FF1231}.Release|x86.ActiveCfg = Release|x86
+		{D29E45FD-1FA0-4D29-9546-8DC652FF1231}.Release|x86.Build.0 = Release|x86
+		{07A2B215-D71F-4578-B4F5-AEE9FE51CCDB}.Debug|x86.ActiveCfg = Debug|x86
+		{07A2B215-D71F-4578-B4F5-AEE9FE51CCDB}.Debug|x86.Build.0 = Debug|x86
+		{07A2B215-D71F-4578-B4F5-AEE9FE51CCDB}.Release|x86.ActiveCfg = Release|x86
+		{07A2B215-D71F-4578-B4F5-AEE9FE51CCDB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
