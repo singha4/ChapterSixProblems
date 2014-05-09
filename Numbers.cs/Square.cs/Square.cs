@@ -9,6 +9,9 @@ namespace Square.cs
     {
         static void Main(string[] args)
         {
+            int n;
+            string input = Console.ReadLine();
+
         }
     }
 }
