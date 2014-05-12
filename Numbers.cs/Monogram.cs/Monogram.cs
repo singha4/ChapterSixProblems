@@ -7,18 +7,18 @@ namespace Monogram.cs
 {
     class Monogram
     {
-        public static void DisplayMonogram(string a)
+        public static void DisplayMonogram(char a, char b, char c)
         {
             Console.Write("**");
-            Console.Write(a);
+            Console.Write(a + "." + b + "." + c);
 
-            Console.Write("**");
+            Console.WriteLine("**");
         }
         static void Main(string[] args)
         {
-            string myF = "A", myM = "B", myL = "S", friendF = "K", friendM = "A", friendL = "E";
-            DisplayMonogram(myF + "." + myM + "." + myL + ".");
-            DisplayMonogram(friendF + friendM + friendL);
+            char myF = 'A', myM = 'B', myL = 'S', friendF = 'K', friendM = 'A', friendL = 'E';
+            DisplayMonogram(myF, myM, myL);
+            DisplayMonogram(friendF, friendM, friendL);
         }
     }
 }
